@@ -1,0 +1,7 @@
+https://dzone.com/articles/raspberry-pi-iot-sensors-influxdb-mqtt-and-grafana
+https://screenzone.eu/arduino-mqtt-sensor-grafana/
+https://towardsdatascience.com/how-to-build-your-home-infrastructure-for-data-collection-and-visualization-and-be-the-real-owner-af9b33723b0c
+https://www.reddit.com/r/PLC/comments/l1w3v3/industrial_data_logging_with_nodered_influxdb_and/
+
+https://18f.gsa.gov/2015/03/03/how-to-use-github-and-the-terminal-a-guide/
+https://www.linux.com/training-tutorials/beginning-git-and-github-linux-users/
